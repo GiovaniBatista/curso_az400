@@ -3,10 +3,10 @@
 
 name: Azure App Service - az400-kv-gb(Production), Build and deploy DotnetCore app
 
-on:
-  push:
-    branches:
-      - master
+#on:
+#  push:
+#    branches:
+#      - master
 
 jobs:
   build-and-deploy:
